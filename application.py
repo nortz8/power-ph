@@ -354,4 +354,4 @@ def plotting(btn,Hours,nn_model):
 
 application = app.server
 if __name__ == '__main__':
-    app.run_server()
+    app.run_server(port=8082)
