@@ -10,5 +10,5 @@
 #### Open this link in your browser: http://127.0.0.1:8082/
 
 
-#### A deployed application is also available in the link below until January 31, 2019:  
+#### A deployed application is also available in the link below until January 31, 2020:  
 #### http://deployment-dev.ap-northeast-1.elasticbeanstalk.com/
