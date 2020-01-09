@@ -6,15 +6,12 @@ Predicting energy demand is crucial for power supply planning and policymaking. 
 The study focused on applying neural network models to predict power demand using hourly demand data of the Philippines. The two neural networks explored, combined with three different lookback values, outperformed the baseline neural network models. LSTM with a 3-week lookback showed the highest forecast performance in terms of mean absolute error (MAE).  
 
 <br>
-
 These models can be trained on more granular data (e.g. per franchise area or station) and is expected to perform at a commensurate accuracy level.  
 
 <br>
-
 High forecast accuracy on power demand translates to huge business value for utility and power generation companies alike. These forecasts can augment in decision support tools for purchasing electricity and power supply planning, both in the short and the long term. These can also guide decisions on urban planning and policymaking in the energy and adjacent sectors.  
 
 <br>
-
 The choice of hyperparameters run were limited by the amount of computing resources and corresponding running time. Extensions of this study can explore more lookback values and other hyperparameters to find the optimal architecture. While LSTM is currently seen as the best forecasting model for time series data, other neural network models can still be experimented.  
 
 
