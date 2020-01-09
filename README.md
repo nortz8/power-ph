@@ -8,8 +8,8 @@ Predicting energy demand is crucial for power supply planning and policymaking. 
 `conda activate power-ph`  
 `python application.py`  
 
-#### Open this link in your browser: http://127.0.0.1:8082/
-<br>
+#### Open this link in your browser: http://127.0.0.1:8082/  
+<br>  
 #### A deployed application is also available in the link below until January 31, 2020:  
 #### http://deployment-dev.ap-northeast-1.elasticbeanstalk.com/
 
