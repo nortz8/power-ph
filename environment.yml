@@ -2,7 +2,7 @@ name: power-ph
 channels:
   - defaults
 dependencies:
-  - python=3.6.8
+  - python=3.6.10
   - dash=1.4.1
   - pandas=0.25.3
   - keras=2.2.4
